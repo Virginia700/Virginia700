@@ -4,8 +4,19 @@
 ## About me
 Hello I am Virginia! Just another student :)
 
+<!-- Add more details about me later -->
+
+<details>
+  <summary>My top Languages</summary><br>
+  
 | Rank | THING-TO-RANK |
 |-----:|---------------|
 |     1| HTML          |
 |     2| PHP           |
 |     3| Javascript    |
+
+</details>
+
+---
+> Doing the little things does big damage
+- Virginia the State
