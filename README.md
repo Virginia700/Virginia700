@@ -2,7 +2,7 @@
 
 <!--I honlesty don't know what just happen-->
 ## About me
-Hello I am Virginia! Just another student :)
+Hello I am Virginia! Just looking around :)
 
 <!-- Add more details about me later -->
 
